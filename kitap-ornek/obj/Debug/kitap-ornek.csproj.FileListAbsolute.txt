@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\kitap-ornek\kitap-ornek\bin\Debug\kitap-ornek.exe.config
+C:\Users\User\source\repos\kitap-ornek\kitap-ornek\bin\Debug\kitap-ornek.exe
+C:\Users\User\source\repos\kitap-ornek\kitap-ornek\bin\Debug\kitap-ornek.pdb
+C:\Users\User\source\repos\kitap-ornek\kitap-ornek\obj\Debug\kitap-ornek.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\kitap-ornek\kitap-ornek\obj\Debug\kitap-ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\kitap-ornek\kitap-ornek\obj\Debug\kitap_ornek.Form1.resources
+C:\Users\User\source\repos\kitap-ornek\kitap-ornek\obj\Debug\kitap_ornek.Properties.Resources.resources
+C:\Users\User\source\repos\kitap-ornek\kitap-ornek\obj\Debug\kitap-ornek.csproj.GenerateResource.cache
+C:\Users\User\source\repos\kitap-ornek\kitap-ornek\obj\Debug\kitap-ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kitap-ornek\kitap-ornek\obj\Debug\kitap-ornek.exe
+C:\Users\User\source\repos\kitap-ornek\kitap-ornek\obj\Debug\kitap-ornek.pdb
